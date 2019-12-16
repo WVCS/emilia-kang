@@ -37,12 +37,12 @@ form {color:white; font-family: 'Amatic SC'}
   display: table;
   clear: both;
 }
-<style>
+
 body {
   font-size: 28px;
 }
 
-ul2 {
+ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -53,7 +53,7 @@ ul2 {
   top: 0;
 }
 
-li {
+li.nav{
   float: left;
 }
 
